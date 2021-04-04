@@ -1,0 +1,40 @@
+body{
+    background-image: url('images/background.jpg');
+}
+#container{
+    background-color: #E6CC80;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-style: solid;
+    border-color: #3B4A93;
+    border-width: 5px;
+    margin: auto;
+    width: 900px;
+    /*There's a little padding in the screen caputre, therefore I am adding it*/
+    padding: 20px;
+}
+h1{
+    color: #3B4A93;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color: #3B4A93;
+}
+h3{
+    color: #3B4A93;
+    font-size: 18pt;
+}
+.subtitle{
+    color: red;
+    font-size: 14;
+    text-align: center;
+}
+.footer{
+    color: blue;
+    font-size: 14;
+    text-align: center;
+
+}
